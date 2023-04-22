@@ -46,3 +46,6 @@
 
 <h2 align="center">Github Stats</h2>
 
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderkk&include_all_commits=true">
+</p>
