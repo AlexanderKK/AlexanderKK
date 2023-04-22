@@ -24,7 +24,7 @@
   <li>☕ Java student (currently in Java Advanced module) at <a href="https://softuni.bg/"> Softuni</a></li>
   <li>📚 I love learning new things and acquiring new skills</li>
   <li>💻 I’m looking to collaborate in projects of different types</li>
-  <li>🧐 Interested in working at Java projects</li>
+  <li>🧐 Interested in working with diverse people</li>
   <li>🌅 Saxophone, nature and cat lover</li>
 </ul>
 
