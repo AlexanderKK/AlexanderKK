@@ -27,3 +27,9 @@
   <li>🧐 Interested in working with intelligent people</li>
   <li>🌅 Saxophone, nature and cat lover</li>
 </ul>
+
+<hr>
+<h3>How to reach me: 🚀 <a href="mailto: alexander.k.kostadinov@gmail.com">alexander.k.kostadinov@gmail.com</a></h3>
+<hr>
+
+<h3>Languages and technologies</h3>
