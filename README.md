@@ -15,8 +15,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=1000&color=3CFFF7&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hello%2C+my+name+is+Alexander;Let's+see+what's+next" alt="Typing SVG" /></a>
 </p>
 
-<hr>
-
 <h2 align="center"><img width="100" src="https://cdn.discordapp.com/attachments/915353027513319517/1098280254902108211/image0.jpg"> <img width="50" src="https://cdn.discordapp.com/attachments/915353027513319517/1098275546061877318/image.png"><p> About Me</p></h2>
 
 <ul>
