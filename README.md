@@ -32,4 +32,17 @@
 <h3>How to reach me: 🚀 <a href="mailto: alexander.k.kostadinov@gmail.com">alexander.k.kostadinov@gmail.com</a></h3>
 <hr>
 
-<h3>Languages and technologies</h3>
+<h2 align="center">⚙ Languages and tools</h2>
+<p align="center">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
+<hr>
+
+<h2 align="center">Github Stats</h2>
+
