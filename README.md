@@ -46,6 +46,6 @@
 
 <p align="center">
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderkk&theme=blue-green">
-	<img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alexanderkk&theme=blue-green&show_icons=true">
+	<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderkk&theme=blue-green&show_icons=true">
 	<img width="50%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=alexanderkk&layout=compact&theme=blue-green">
 </p>
