@@ -19,7 +19,7 @@
 
 <ul>
   <li>👨‍🎓 I am an IT Bachelor and Master’s student on Mobile and Web Technologies at UE-Varna</li>
-  <li>☕ Java student (currently in Java Advanced module) at <a href="https://softuni.bg/"> Softuni</a></li>
+  <li>☕ Java student (currently in the Java Web module) at <a href="https://softuni.bg/"> Softuni</a></li>
   <li>📚 I love learning new things and acquiring new skills</li>
   <li>💻 I’m looking to collaborate in projects of different types</li>
   <li>🐱‍👤 Interested in working with diverse people</li>
