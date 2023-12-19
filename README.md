@@ -27,7 +27,7 @@
 
 <hr>
 <h3>How to reach me: 🚀 <a href="mailto: alexander.k.kostadinov@gmail.com">alexander.k.kostadinov@gmail.com</a></h3>
-<h3>Socials: <a href="https://www.linkedin.com/in/alexander-kostadinov-64b317209/"><img align="center" width="25" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a></h3>
+<h3>Socials: <a href="https://www.linkedin.com/in/alexander-kostadinov-64b317209/"><img align="top" width="25" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a></h3>
 <h3>Projects: 🎬 <a href="https://github.com/AlexanderKK/techstore">Techstore</a></h3>
 <hr>
 
