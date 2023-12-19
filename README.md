@@ -2,7 +2,8 @@
 	<foreignObject width="0" height="0">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<!-- <style>
-                h2 {
+                h2, 
+		h3 {
                     padding-bottom: 30px !important;
                     border-bottom: 1px solid #2f353e;
                 }
