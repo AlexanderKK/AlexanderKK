@@ -19,10 +19,9 @@
 <h2 align="center"><img width="100" src="https://cdn.discordapp.com/attachments/915353027513319517/1098280254902108211/image0.jpg"> <img width="50" src="https://cdn.discordapp.com/attachments/915353027513319517/1098275546061877318/image.png"><p> About Me</p></h2>
 
 <ul>
-  <li>☕ I am a Junior Web Developer</li>
+  <li>💻 I am a Junior Web Developer</li>
   <li>👨‍🎓 Bachelor on Informatics and Computer Science and Master on Mobile and Web Technologies at UE-Varna</li>
   <li>📚 I love learning new things and acquiring new skills</li>
-  <li>💻 I’m looking to collaborate in projects of different types</li>
   <li>🌅 Saxophone, nature and cat lover</li>
 </ul>
 
