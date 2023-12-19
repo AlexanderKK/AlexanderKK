@@ -29,7 +29,7 @@
 
 <hr>
 <h3>How to reach me: 🚀 <a href="mailto: alexander.k.kostadinov@gmail.com">alexander.k.kostadinov@gmail.com</a></h3>
-<h3>How to reach me: 🚀 <a href="https://github.com/AlexanderKK/techstore">Techstore</a></h3>
+<h3>Projects: 🎬 <a href="https://github.com/AlexanderKK/techstore">Techstore</a></h3>
 <hr>
 
 <h2 align="center">⚙ Languages and tools</h2>
