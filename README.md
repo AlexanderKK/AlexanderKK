@@ -29,6 +29,7 @@
 
 <hr>
 <h3>How to reach me: 🚀 <a href="mailto: alexander.k.kostadinov@gmail.com">alexander.k.kostadinov@gmail.com</a></h3>
+<h3>How to reach me: 🚀 <a href="https://github.com/AlexanderKK/techstore">Techstore</a></h3>
 <hr>
 
 <h2 align="center">⚙ Languages and tools</h2>
@@ -41,10 +42,6 @@
 	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
-<hr>
-
-<h2 align="center">Projects</h2>
-<h3 align="center"><a href="https://github.com/AlexanderKK/techstore">Techstore</a></h3>
 <hr>
 
 <h2 align="center">Github Stats</h2>
