@@ -18,7 +18,7 @@
 <h2 align="center"><img width="100" src="https://cdn.discordapp.com/attachments/915353027513319517/1098280254902108211/image0.jpg"> <img width="50" src="https://cdn.discordapp.com/attachments/915353027513319517/1098275546061877318/image.png"><p> About Me</p></h2>
 
 <ul>
-  <li>👨‍🎓 I am an IT Bachelor and Master on Mobile and Web Technologies at UE-Varna</li>
+  <li>👨‍🎓 I am a Bachelor on Informatics and Computer Science and Master on Mobile and Web Technologies at UE-Varna</li>
   <li>☕ Java student (currently in the Java Web module) at <a href="https://softuni.bg/"> Softuni</a></li>
   <li>📚 I love learning new things and acquiring new skills</li>
   <li>💻 I’m looking to collaborate in projects of different types</li>
@@ -41,6 +41,9 @@
 	<img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 <hr>
+
+<h2 align="center">Projects</h2>
+<p align="center"><a href="https://github.com/AlexanderKK/techstore">Techstore</a></p>
 
 <h2 align="center">Github Stats</h2>
 
