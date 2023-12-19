@@ -43,7 +43,7 @@
 <hr>
 
 <h2 align="center">Projects</h2>
-<p align="center"><a href="https://github.com/AlexanderKK/techstore">Techstore</a></p>
+<h3 align="center"><a href="https://github.com/AlexanderKK/techstore">Techstore</a></h3>
 
 <h2 align="center">Github Stats</h2>
 
