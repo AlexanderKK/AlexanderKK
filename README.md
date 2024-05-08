@@ -22,7 +22,7 @@
   <li>💻 I am a Junior Web Developer</li>
   <li>👨‍🎓 Bachelor on Informatics and Computer Science and Master on Mobile and Web Technologies at UE-Varna</li>
   <li>📚 I love learning new things and acquiring new skills</li>
-  <li>🌅 Saxophone, nature and cat lover</li>
+  <li>🌅 Nature, cat and fitness lover</li>
 </ul>
 
 <hr>
